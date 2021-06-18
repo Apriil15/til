@@ -21,3 +21,4 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### Security
 
 - [SQL Injection 概念](./security/sql-injection-concept.md)
+- [XSS 概念](./security/xss-concept.md)
