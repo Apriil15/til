@@ -6,6 +6,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ## Categories
 
+- [Golang](#golang)
 - [Markdown](#markdown)
 - [Network](#network)
 - [OOP](#oop)
@@ -13,6 +14,10 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [PostgreSQL](#postgresql)
 - [Redis](#redis)
 - [Security](#security)
+
+### Golang
+
+- [Swap](./golang/swap.md)
 
 ### Markdown
 
