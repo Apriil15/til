@@ -6,12 +6,17 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ## Categories
 
+- [Markdown](#markdown)
 - [Network](#network)
 - [OOP](#oop)
 - [OS](#os)
 - [PostgreSQL](#postgresql)
 - [Redis](#redis)
 - [Security](#security)
+
+### Markdown
+
+- [Toggle](./markdown/toggle.md)
 
 ### Network
 
