@@ -18,6 +18,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### Golang
 
 - [Swap](./golang/swap.md)
+- [使用 gRPC 需安裝的相關東西](./golang/install-about-grpc.md)
 
 ### Markdown
 
