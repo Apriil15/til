@@ -21,6 +21,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [Swap](./golang/swap.md)
 - [使用 gRPC 需安裝的相關東西](./golang/install-about-grpc.md)
 - [如何寫 Benchmark](./golang/how-to-write-benchmark.md)
+- [new vs make](./golang/new-vs-make.md)
 
 ### Markdown
 
