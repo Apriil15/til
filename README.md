@@ -8,6 +8,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 - [Golang](#golang)
 - [Markdown](#markdown)
+- [MSSQL](#mssql)
 - [Network](#network)
 - [OOP](#oop)
 - [OS](#os)
@@ -24,6 +25,10 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### Markdown
 
 - [Toggle](./markdown/toggle.md)
+
+### MSSQL
+
+- [在 SSMS 中確認 Log](./mssql/check-log-in-ssms.md)
 
 ### Network
 
