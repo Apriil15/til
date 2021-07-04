@@ -7,6 +7,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ## Categories
 
 - [Golang](#golang)
+- [Linux](#linux)
 - [Markdown](#markdown)
 - [MSSQL](#mssql)
 - [Network](#network)
@@ -22,6 +23,10 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [使用 gRPC 需安裝的相關東西](./golang/install-about-grpc.md)
 - [如何寫 Benchmark](./golang/how-to-write-benchmark.md)
 - [new vs make](./golang/new-vs-make.md)
+
+### Linux
+
+- [將指令分段](./linux/separate-command.md)
 
 ### Markdown
 
