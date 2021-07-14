@@ -6,6 +6,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ## Categories
 
+- [Data Structure](#data-structure)
 - [Golang](#golang)
 - [Linux](#linux)
 - [Markdown](#markdown)
@@ -16,6 +17,10 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [PostgreSQL](#postgresql)
 - [Redis](#redis)
 - [Security](#security)
+
+### Data Structure
+
+- [遍歷 Binary Tree](./data-structure/traversal-binary-tree.md)
 
 ### Golang
 
