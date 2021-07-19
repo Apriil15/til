@@ -17,7 +17,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [PostgreSQL](#postgresql)
 - [Redis](#redis)
 - [Security](#security)
-- [VS Code](#vscode)
+- [VS Code](#vs-code)
 
 ### Data Structure
 
