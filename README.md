@@ -17,6 +17,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [PostgreSQL](#postgresql)
 - [Redis](#redis)
 - [Security](#security)
+- [VS Code](#vscode)
 
 ### Data Structure
 
@@ -67,3 +68,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [SQL Injection 概念](./security/sql-injection-concept.md)
 - [XSS 概念](./security/xss-concept.md)
 - [CSRF 概念](./security/csrf-concept.md)
+
+### VS Code
+
+- [設定 JS、TS 方法的括號自動補齊](./vscode/add-parentheses-when-autocompleting-function.md)
