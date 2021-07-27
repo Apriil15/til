@@ -20,6 +20,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [Security](#security)
 - [Unit Test](#unit-test)
 - [VS Code](#vs-code)
+- [Others](#others)
 
 ### Data Structure
 
@@ -82,3 +83,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### VS Code
 
 - [設定 JS、TS 方法的括號自動補齊](./vscode/add-parentheses-when-autocompleting-function.md)
+
+### Others
+
+- [利用指令產生 ssh key file](./others/use-command-to-generate-ssh-key-file.md)
