@@ -36,6 +36,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### JavaScript
 
 - [== vs ===](./javascript/double-equals-vs-triple-equals.md)
+- [如何使用 Array 的 filter / find / map / reduce](./javascript/how-to-use-array-function-filter-find-map-reduce.md)
 
 ### Linux
 
