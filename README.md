@@ -81,6 +81,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### TypeScript
 
 - [Non-null assertion operator](./typescript/non-null-assertion-operator.md)
+- [Pick 用法](./typescript/how-to-use-pick.md)
 
 ### Unit Test
 
