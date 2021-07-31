@@ -82,6 +82,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 - [Non-null assertion operator](./typescript/non-null-assertion-operator.md)
 - [Pick & Record](./typescript/pick-and-record.md)
+- [Any & Unknown](./typescript/any-and-unknown.md)
 
 ### Unit Test
 
