@@ -7,6 +7,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ## Categories
 
 - [Data Structure](#data-structure)
+- [Git](#git)
 - [Golang](#golang)
 - [JavaScript](#javascript)
 - [Linux](#linux)
@@ -27,6 +28,10 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### Data Structure
 
 - [遍歷 Binary Tree](./data-structure/traversal-binary-tree.md)
+
+### Git
+
+- [設定多個 remote repo](./git/set-multiple-remote-repo.md)
 
 ### Golang
 
