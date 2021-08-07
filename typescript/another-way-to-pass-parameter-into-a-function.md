@@ -4,7 +4,7 @@ function 傳入參數的 type 可以用下面的寫法
 
 1. 能夠增加閱讀性
 
-```tsx
+```ts
 class Student {
   name: string;
   age: number;
