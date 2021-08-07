@@ -98,6 +98,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [Pick & Record](./typescript/pick-and-record.md)
 - [Any & Unknown](./typescript/any-and-unknown.md)
 - [function 傳入參數的寫法](./typescript/another-way-to-pass-parameter-into-a-function.md)
+- [Partial / Required type](./typescript/partial-required-type.md)
 
 ### Unit Test
 
