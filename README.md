@@ -101,6 +101,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [Partial / Required type](./typescript/partial-required-type.md)
 - [.d.ts file](./typescript/.d.ts-file.md)
 - [用 VS Code 來 debug](./typescript/use-vscode-to-debug.md)
+- [Decorator](./typescript/decorator.md)
 
 ### Unit Test
 
