@@ -100,7 +100,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [function 傳入參數的寫法](./typescript/another-way-to-pass-parameter-into-a-function.md)
 - [Partial / Required type](./typescript/partial-required-type.md)
 - [.d.ts file](./typescript/.d.ts-file.md)
-- [用 VS Code 來 debug](./typescript/use-vscode-to-dubug.md)
+- [用 VS Code 來 debug](./typescript/use-vscode-to-debug.md)
 
 ### Unit Test
 
