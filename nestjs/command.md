@@ -11,3 +11,9 @@ npm i -g @nestjs/cli
 ```bash
 nest new your-project-name
 ```
+
+- create a controller
+
+```bash
+nest g controller your-name
+```
