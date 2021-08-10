@@ -49,6 +49,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [call / apply / bind](./javascript/call-apply-bind.md)
 - [null / undefined / NaN](./javascript/null-undefined-NaN.md)
 - [Object.assign()](./javascript/object-assign.md)
+- [Reflect.set()](./javascript/reflect-set.md)
 
 ### Linux
 
