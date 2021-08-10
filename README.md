@@ -48,6 +48,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [Destructuring 解構](./javascript/destructuring.md)
 - [call / apply / bind](./javascript/call-apply-bind.md)
 - [null / undefined / NaN](./javascript/null-undefined-NaN.md)
+- [Object.assign()](./javascript/object-assign.md)
 
 ### Linux
 
