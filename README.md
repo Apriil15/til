@@ -77,6 +77,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 - [Command](./nodejs/command.md)
 - [監聽事件 process.on](./nodejs/process-on.md)
+- [WSL 內安裝 Node.js](./nodejs/install-nodejs-in-wsl.md)
 
 ### OOP
 
