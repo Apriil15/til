@@ -50,6 +50,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [null / undefined / NaN](./javascript/null-undefined-NaN.md)
 - [Object.assign()](./javascript/object-assign.md)
 - [Reflect.set()](./javascript/reflect-set.md)
+- [Object.entries()](./javascript/object-entries.md)
 
 ### Linux
 
