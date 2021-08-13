@@ -124,3 +124,4 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### Others
 
 - [利用指令產生 ssh key file](./others/use-command-to-generate-ssh-key-file.md)
+- [路徑中 \*\* 的意思](./others/star-sign-meaning-in-path.md)
