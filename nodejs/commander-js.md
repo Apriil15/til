@@ -32,7 +32,7 @@
     .option("-a, --accountID <accountID>", "account id", "0")
     .option("-p, --password <password>", "password", "")
     .action((arg) => {
-      console.log(arg); // { accountID: '1', password: 'fdfdfd' }
+      console.log(arg); // { accountID: '123987', password: '12354689' }
       console.log("accountID: " + arg.accountID);
       console.log("password: " + arg.password);
     });
