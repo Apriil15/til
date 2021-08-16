@@ -7,6 +7,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ## Categories
 
 - [Data Structure](#data-structure)
+- [GCP](#gcp)
 - [Git](#git)
 - [Golang](#golang)
 - [JavaScript](#javascript)
@@ -29,6 +30,10 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### Data Structure
 
 - [遍歷 Binary Tree](./data-structure/traversal-binary-tree.md)
+
+### GCP
+
+- [macOS 安裝 gcloud](./gcp/macos-install-gcloud.md)
 
 ### Git
 
