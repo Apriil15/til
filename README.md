@@ -56,6 +56,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [Object.assign()](./javascript/object-assign.md)
 - [Reflect.set()](./javascript/reflect-set.md)
 - [Object.entries()](./javascript/object-entries.md)
+- [運算子](./javascript/operator.md)
 
 ### Linux
 
