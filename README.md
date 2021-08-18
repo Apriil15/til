@@ -119,6 +119,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [.d.ts file](./typescript/.d.ts-file.md)
 - [用 VS Code 來 debug](./typescript/use-vscode-to-debug.md)
 - [Decorator](./typescript/decorator.md)
+- [class-validator: @IsOptional()](./typescript/@IsOptional.md)
 
 ### Unit Test
 
