@@ -57,6 +57,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [Reflect.set()](./javascript/reflect-set.md)
 - [Object.entries()](./javascript/object-entries.md)
 - [運算子](./javascript/operator.md)
+- [Promise](./javascript/promise.md)
 
 ### Linux
 
