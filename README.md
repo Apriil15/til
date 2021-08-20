@@ -38,6 +38,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### Git
 
 - [設定多個 remote repo](./git/set-multiple-remote-repo.md)
+- [刪掉 remote 已經刪掉的 local branch](./git/delete-local-branch-deleted-at-remote.md)
 
 ### Golang
 
