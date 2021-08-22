@@ -122,6 +122,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [用 VS Code 來 debug](./typescript/use-vscode-to-debug.md)
 - [Decorator](./typescript/decorator.md)
 - [class-validator: @IsOptional()](./typescript/@IsOptional.md)
+- [Object literal lazy initial](./typescript/object-literal-lazy-initial.md)
 
 ### Unit Test
 
