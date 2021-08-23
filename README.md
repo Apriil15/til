@@ -59,6 +59,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [Object.entries()](./javascript/object-entries.md)
 - [運算子](./javascript/operator.md)
 - [Promise](./javascript/promise.md)
+- [Turn string into number with positive sign](./javascript/turn-string-into-number-with-positive-sign.md)
 
 ### Linux
 
