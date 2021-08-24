@@ -1,7 +1,7 @@
 # Destructuring 解構
 
-- 把 value 從 array 或 object 拿出來，然後 assign 給變數
-- 算是一種比較精簡的寫法
+- 把 value 從 `array` 或 `object` 拿出來，然後 assign 給變數
+- 算是一種精簡的寫法
 
 ---
 
@@ -95,6 +95,19 @@
   love({ b: "工作" }); // 沒有人 愛 工作
   love({ b: "世界紅茶", a: "我" }); // 我 愛 世界紅茶
   love({}); // 沒有人 愛 你
+  ```
+
+  - 搭配 rest operator
+
+  ```tsx
+  const student = {
+    name: "Sam",
+    age: 12,
+    score: 66,
+  };
+  const { name, ...restObj } = student;
+  console.log(name); // Sam
+  console.log(restObj); // { age: 12, score: 66 }
   ```
 
 ## Reference
