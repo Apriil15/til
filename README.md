@@ -126,6 +126,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [class-validator: @IsOptional()](./typescript/@IsOptional.md)
 - [Object literal lazy initial](./typescript/object-literal-lazy-initial.md)
 - [Never](./typescript/never-type.md)
+- [Compile with watch mode](./typescript/compile-with-watch-mode.md)
 
 ### Unit Test
 
