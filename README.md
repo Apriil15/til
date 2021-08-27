@@ -125,6 +125,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [Decorator](./typescript/decorator.md)
 - [class-validator: @IsOptional()](./typescript/@IsOptional.md)
 - [Object literal lazy initial](./typescript/object-literal-lazy-initial.md)
+- [Never](./typescript/never-type.md)
 
 ### Unit Test
 
