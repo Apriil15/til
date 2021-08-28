@@ -127,6 +127,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [Object literal lazy initial](./typescript/object-literal-lazy-initial.md)
 - [Never](./typescript/never-type.md)
 - [Compile with watch mode](./typescript/compile-with-watch-mode.md)
+- [tsconfig](./typescript/tsconfig.md)
 
 ### Unit Test
 
