@@ -1,5 +1,14 @@
 # 用 VS Code 來 debug
 
+2021/8/29 update
+
+- Nodejs debug 方式：ts-node + script 直接跑就行
+- HTML 方式：tsconfig.json 開 `sourceMap`，要先編譯，然後到 index.html 按 Start Debugging
+
+看起來不需要用下面的方式了
+
+---
+
 - `tsconfig.json` 新增以下參數
 
   ```json
