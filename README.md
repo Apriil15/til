@@ -136,6 +136,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### VS Code
 
 - [設定 JS、TS 方法的括號自動補齊](./vscode/add-parentheses-when-autocompleting-function.md)
+- [HTML template snippet](./vscode/html-template-snippet.md)
 
 ### Others
 
