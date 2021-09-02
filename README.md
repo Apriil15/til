@@ -133,6 +133,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [Never](./typescript/never-type.md)
 - [Compile with watch mode](./typescript/compile-with-watch-mode.md)
 - [tsconfig](./typescript/tsconfig.md)
+- [Override](./typescript/override.md)
 
 ### Unit Test
 
