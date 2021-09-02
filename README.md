@@ -134,6 +134,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [Compile with watch mode](./typescript/compile-with-watch-mode.md)
 - [tsconfig](./typescript/tsconfig.md)
 - [Override](./typescript/override.md)
+- [Getter & Setter](./typescript/getter-and-setter.md)
 
 ### Unit Test
 
