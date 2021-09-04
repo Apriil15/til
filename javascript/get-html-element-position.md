@@ -9,3 +9,5 @@ we can use `getClientRects()` to get the position of the element
 ```js
 document.querySelector(".js-profile-editable-edit-button").getClientRects();
 ```
+
+![](https://i.imgur.com/UJ3Aa2g.png)
