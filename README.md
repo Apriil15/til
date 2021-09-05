@@ -63,6 +63,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [Turn string into number with positive sign](./javascript/turn-string-into-number-with-positive-sign.md)
 - [Get HTML element's position](./javascript/get-html-element-position.md)
 - [BOM](./javascript/bom.md)
+- [Web 中使用 JS 的方式](./javascript/how-to-use-js-in-web.md)
 
 ### Linux
 
