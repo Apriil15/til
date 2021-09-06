@@ -64,6 +64,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [Get HTML element's position](./javascript/get-html-element-position.md)
 - [BOM](./javascript/bom.md)
 - [Web 中使用 JS 的方式](./javascript/how-to-use-js-in-web.md)
+- [DOM](./javascript/dom.md)
 
 ### Linux
 
