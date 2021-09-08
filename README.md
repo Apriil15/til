@@ -66,6 +66,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [Web 中使用 JS 的方式](./javascript/how-to-use-js-in-web.md)
 - [DOM](./javascript/dom.md)
 - [appendChild 使用](./javascript/using-appendChild.md)
+- [innerHTML vs innerText](./javascript/innerHTML-vs-innerText.md)
 
 ### Linux
 
