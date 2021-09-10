@@ -141,6 +141,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [tsconfig](./typescript/tsconfig.md)
 - [Override](./typescript/override.md)
 - [Getter & Setter](./typescript/getter-and-setter.md)
+- [Mapped Type](./typescript/mapped-type.md)
 
 ### Unit Test
 
