@@ -1,8 +1,10 @@
 # jQuery
 
-要把 jQuery loading 進來
+- 要把 jQuery loading 進來
 
-可以用 CDN 的方式：[https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js](https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js)
+  可以用 CDN 的方式：[https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js](https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js)
+
+- 主要用 `selector` 來做 query
 
 ```tsx
 <!DOCTYPE html>
