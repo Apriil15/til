@@ -68,6 +68,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [appendChild 使用](./javascript/using-appendChild.md)
 - [innerHTML vs innerText](./javascript/innerHTML-vs-innerText.md)
 - [監聽事件](./javascript/listening-event.md)
+- [jQuery](./javascript/jQuery.md)
 
 ### Linux
 
